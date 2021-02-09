@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-media",
+  "name": "cordova-plugin-media-patched",
   "version": "5.0.4-dev",
   "description": "Cordova Media Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-media",
+    "id": "cordova-plugin-media-patched",
     "platforms": [
       "android",
       "browser",
@@ -12,8 +12,6 @@
       "windows"
     ]
   },
-  "repository": "github:apache/cordova-plugin-media",
-  "bugs": "https://github.com/apache/cordova-plugin-media/issues",
   "keywords": [
     "cordova",
     "media",
